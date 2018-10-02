@@ -1,4 +1,4 @@
-#!C:/Python34/python
+#!usr/local/bin/python
 import cgi
 import cgitb; cgitb.enable()  # for troubleshooting
 
